@@ -1,0 +1,12 @@
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.deps.json
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.dll
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.pdb
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.csproj.AssemblyReference.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.AssemblyInfoInputs.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.AssemblyInfo.cs
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.csproj.CoreCompileInputs.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.dll
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\refint\Tester.Core.dll
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.pdb
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\net6.0\ref\Tester.Core.dll

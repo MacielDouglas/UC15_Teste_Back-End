@@ -1,0 +1,5 @@
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\netcoreapp3.1\Tester.Core.csproj.AssemblyReference.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\netcoreapp3.1\Tester.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\netcoreapp3.1\Tester.Core.AssemblyInfoInputs.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\netcoreapp3.1\Tester.Core.AssemblyInfo.cs
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.Core\obj\Debug\netcoreapp3.1\Tester.Core.csproj.CoreCompileInputs.cache

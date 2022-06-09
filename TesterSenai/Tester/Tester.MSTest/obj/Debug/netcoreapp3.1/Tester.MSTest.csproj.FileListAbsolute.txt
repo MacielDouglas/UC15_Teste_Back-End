@@ -1,0 +1,6 @@
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\obj\Debug\netcoreapp3.1\Tester.MSTest.csproj.AssemblyReference.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\obj\Debug\netcoreapp3.1\Tester.MSTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\obj\Debug\netcoreapp3.1\Tester.MSTest.AssemblyInfoInputs.cache
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\obj\Debug\netcoreapp3.1\Tester.MSTest.AssemblyInfo.cs
+D:\WorkSpaceSenai\UC15\UC15_Teste_Back-End\Tester\Tester.MSTest\obj\Debug\netcoreapp3.1\Tester.MSTest.csproj.CoreCompileInputs.cache
