@@ -12,11 +12,12 @@ namespace TestUnixCalcImc
             double segundoNumero = 93; //peso
 
             double resultadoMult = 3.64; //adicionar apenas os primeiros tres digitos do resultado da multiplicação
-            double IMC = 25.54; // IMC= peso dividido pelo resultdoMult, apenas os tres primeiros digitos
+            double IMC = 25.54; // IMC = peso dividido pelo resultdoMult, apenas os tres primeiros digitos
 
             //Act - Ação
             var resultado = Calculadora.Multiplicacao(primeiroNumero);
             var resultDivisao = Calculadora.Divisao(resultado, segundoNumero);
+            var imcResultado = Calculadora.Classificacao(imcResultado);
 
             //Assert - Verificação
             Assert.Equal(resultadoMult, Math.Round(resultado, 2, MidpointRounding.ToZero));
