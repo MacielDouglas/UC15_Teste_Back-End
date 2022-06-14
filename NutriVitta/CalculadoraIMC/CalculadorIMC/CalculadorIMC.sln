@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorIMC", "CalculadorIMC\CalculadorIMC.csproj", "{A6241015-4E8F-4B76-A6E8-56B64B7EEE38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadorIMC", "CalculadorIMC\CalculadorIMC.csproj", "{A6241015-4E8F-4B76-A6E8-56B64B7EEE38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTEstCalcImc", "MSTEstCalcImc\MSTEstCalcImc.csproj", "{1A5FD9BE-A976-4D19-AF5D-B7C248EBADBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTEstCalcImc", "MSTEstCalcImc\MSTEstCalcImc.csproj", "{1A5FD9BE-A976-4D19-AF5D-B7C248EBADBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit", "TestXUnit\TestXUnit.csproj", "{0FE30073-0B49-4AFE-B2C2-3A1D010598DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1A5FD9BE-A976-4D19-AF5D-B7C248EBADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A5FD9BE-A976-4D19-AF5D-B7C248EBADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A5FD9BE-A976-4D19-AF5D-B7C248EBADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE30073-0B49-4AFE-B2C2-3A1D010598DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE30073-0B49-4AFE-B2C2-3A1D010598DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE30073-0B49-4AFE-B2C2-3A1D010598DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE30073-0B49-4AFE-B2C2-3A1D010598DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
